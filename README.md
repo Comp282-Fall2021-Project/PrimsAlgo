@@ -1,4 +1,2 @@
-# PrimsAlgo
-
-
-- Might be renamed to other algos because Prims Algo is a spanning tree not a shortest path algo
+# FloydWarshall-CSUN-Map
+Construction of a website to provide most efficient route between buildings at CSUN using the Floyd Warshall Algorithm
